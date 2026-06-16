@@ -14,7 +14,7 @@ Contruir uma Fonte de Tensão ajustavel entre 3V a 12V com capacidade de 100mA
 | RESISTOR 2.2 kΩ  | are neat |    $1 |
 | DIODO ZENER 13V  | 10,0 | $1600 |
 | TRANSISTOR NPN  | centered |   $12 |
-| Transformador 24V | are neat |    $1 |
+| TRANSFORMADOR 24V | are neat |    $1 |
 | FUSIVEL 20AG | 10,0 | $1600 |
 | RESISTOR 100 Ω | centered |   $12 |
 | VARISTOR 150 VAC   | are neat  |    $1 |
