@@ -25,3 +25,5 @@ Contruir uma Fonte de Tensão ajustavel entre 3V a 12V com capacidade de 100mA
 
 ## Circuito no Falstad
 ![Falstad](Imagens/Falstad.png)
+
+[Link Falstad]([https://www.google.com](https://tinyurl.com/24qn5gq7))
