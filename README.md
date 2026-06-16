@@ -22,4 +22,4 @@ Contruir uma Fonte de Tensão ajustavel entre 3V a 12V com capacidade de 100mA
 | JUMPER MACHO X MACHO | 20 | R$ 13,58 |
 | JUMPER FÉMEA X MACHO  | 20  | R$ 13,58 |
 
-![alt text]([https://github.com/Imagens](https://github.com/JuniorTWI/Trabalho-Fonte---Grupo-5/blob/main/Imagens/ProjetonoFalstad.png) "Falstad")
+![Falstad](imagens/Projeto no Falstad.png)
