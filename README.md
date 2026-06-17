@@ -1,6 +1,6 @@
 # Projeto-Fonte-USP
 ## Instruções:
-Contruir uma Fonte de Tensão ajustavel entre 3V a 12V com capacidade de 100mA
+Construir uma Fonte de Tensão ajustavel entre 3V a 12V com capacidade de 100mA
 
 # Componentes:
 
