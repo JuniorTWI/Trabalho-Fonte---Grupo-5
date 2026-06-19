@@ -6,9 +6,9 @@ Construir uma Fonte de Tensão ajustavel entre 3V a 12V com capacidade de 100mA
 
 | Componente     | Quantidade | Preço |
 | -------------    |:-------------: |:-----|
-| DIODO RETIFICADOR 1N4007  | 10 | R$ 1,90 |
+| DIODO RETIFICADOR 1N4007  | 4 | R$ 0,76 |
 | CAPACITOR 680UF  | 1 | R$ 4,75 |
-| RESISTOR 1kΩ  | 10 | R$ 0,70 |
+| RESISTOR 1kΩ  | 3 | R$ 0,70 |
 | LED 5MM | 5 | R$ 2,45 |
 | RESISTOR 120 Ω | 10 | 0,70 |
 | RESISTOR 2.2 kΩ  | 10 | 0,70 |
